@@ -23,7 +23,7 @@ The repository supports both:
    Multi-center ICU dataset used for external validation.  
    🔗 https://physionet.org/content/eicu-crd/2.0/
 
-> ⚠ Access to MIMIC-IV and eICU-CRD requires credentialed PhysioNet approval.
+> ⚠ Access to full MIMIC-IV and eICU-CRD requires credentialed PhysioNet approval.
 
 ---
 

@@ -68,14 +68,7 @@ See the LICENSE file for full terms.
 📚 Citation is required for any publications, derivatives, or academic work using this repository.
 
 Citation format:
-
-css
-Copy
-Edit
-Amory, I. A. (2025). "FRSSA for Sepsis Mortality Prediction"
+Ibrahim A. Amory , Parviz Rashidi-Khazaee , Saleh Yousefi (2025). "Improving Sepsis Mortality Prediction with Machine Learning Using Full Region Synthetic Sampling Approach"
 For commercial licensing requests, please contact: [ibrahim.a.amory@gmail.com]
 
-🙏 Acknowledgments
-PhysioNet and contributors for MIMIC-IV and eICU datasets
-
-Yuying Lu et al. for the pre-cleaned MIMIC-IV CSV dataset
+🙏 Acknowledgments: PhysioNet and contributors for MIMIC-IV and eICU datasets and Yuying Lu et al. for the pre-cleaned MIMIC-IV CSV dataset

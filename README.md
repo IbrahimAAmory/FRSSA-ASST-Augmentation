@@ -7,6 +7,13 @@ The repository supports both:
 - **Pre-splitting augmentation** (augmentation applied to full data before train-test split)
 - **Post-splitting augmentation** (augmentation applied only to training data)
 
+Both methods were proposed and evaluated in the following peer-reviewed publication:
+
+**Ibrahim A. Amory, Parviz Rashidi-Khazaee, Saleh Yousefi**  
+"Improving Sepsis Mortality Prediction with Machine Learning Using Full Region Synthetic Sampling Approach"  
+*Health Science Reports (Wiley)*  
+https://doi.org/10.1002/hsr2.71556
+
 ---
 
 ## 📊 Datasets Used

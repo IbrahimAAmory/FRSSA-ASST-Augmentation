@@ -1,7 +1,7 @@
 # FRSSA-ASST-Augmentation
 Implementations of FRSSA augmentation (Pre-Splitting and Post-Splitting) with ASST for Sepsis Mortality
 
-This repository provides code and custom augmentation modules developed to enhance sepsis mortality prediction using ICU datasets. It introduces **FRSSA** (Feature Region Synthetic Sampling Approach), a novel technique combining elements of SMOTE and ADASYN while applying dynamic hardness-based interpolation and expansion dispersion.
+This repository provides code and custom augmentation modules developed to enhance sepsis mortality prediction using ICU datasets. It introduces **FRSSA** (Full Region Synthetic Sampling Approach), a novel technique combining elements of SMOTE and ADASYN while applying dynamic hardness-based interpolation and expansion dispersion by adding Gaussian distribution to create non-linear equation for augmentation.
 
 The repository supports both:
 - **Pre-splitting augmentation** (augmentation applied to full data before train-test split)
